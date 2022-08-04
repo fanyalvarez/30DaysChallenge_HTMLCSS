@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+a{
+    padding: 20px 30px;
+    margin: 30px;
+    text-decoration: none;
+    color:azure;
+    background-color:steelblue;
+}
