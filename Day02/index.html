@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="container a-container" id="a-container">
+            <form action="" class="form" id="a-form">
+                <h2 class="title">Create Account</h2>
+                <div class="form_icons">
+                    <img src="svg/fb.svg" alt="" class="form_icon">
+                    <img src="svg/linkedin.svg" alt="" class="form_icon">
+                    <img src="svg/twitter.svg" alt="" class="form_icon">
+                </div>
+
+                <span class="form_span">or use email for registration </span>
+                <input type="text" class="form_input" placeholder="Name" />
+                <input type="text" class="form_input" placeholder="Email" />
+                <input type="password" class="form_input" placeholder="Password" />
+                <button class="button submit">SIGN UP </button>
+
+            </form>
+        </div>
+
+        <div class="container b-container" id="b-container">
+            <form action="" class="form" id="b-form">
+                <h2 class="title">Sing in to Website</h2>
+                <div class="form_icons">
+                    <img src="svg/fb.svg" alt="" class="form_icon">
+                    <img src="svg/linkedin.svg" alt="" class="form_icon">
+                    <img src="svg/twitter.svg" alt="" class="form_icon">
+                </div>
+                <span class="form_span">or use email account </span>
+                <input type="text" class="form_input" placeholder="Email" />
+                <input type="password" class="form_input" placeholder="Password" />
+                <a class="form_link">Forgot your password?</a>
+                <button class="button submit">SIGN IN </button>
+            </form>
+        </div>
+
+        <div class="switch" id="switch-cnt">
+            <div class="switch_circle"></div>
+            <div class="switch_circle switch_circle--t"></div>
+            <div class="switch__container" id="switch-c1">
+                <h2 class="title">Welcome Back!!</h2>
+                <p class="description">To kepp cpnnected with us please login with your pesonal info</p>
+                <button class="switch_button button switch-btn">SING IN</button>
+            </div>
+            <div class="switch__container is-hidden" id="switch-c2">
+                <h2 class="switch_title title">Hello Friend!!</h2>
+                <p class="description">Enter your personal details and start your journey with us</p>
+                <button class="switch_button button switch-btn">SING UP</button>
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
