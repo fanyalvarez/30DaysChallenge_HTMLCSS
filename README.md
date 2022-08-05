@@ -8,7 +8,7 @@ and I will start doing this challenge 🤓
 #  Here is What I have done in these 30 Days : 
 <br> DAY -  PROYECT
 <br>01✅ - Glowing Neon Buttons
-<br>02 - Neumorphism Login Form
+<br>02✅ - Neumorphism Login Form
 <br>03 - Responsive Task Management Dashboard
 <br>04 - Side Navigation Bar
 <br>05 - Social Media Icons with Tooltip on Hover
