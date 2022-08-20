@@ -1,18 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;700&family=Raleway:ital,wght@1,500&family=Readex+Pro&family=Silkscreen&display=swap');
+
+
 body{
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
     align-items:center;
     height: 100vh;
-    background-color: black;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
+    background-color: rgb(48, 44, 44);
+    /* background-image:url("Scorpius.jpg")  ;
+    background-size:cover;
+    background-position: center; */
+    font-family: 'Silkscreen', cursive;
+    font-size: larger;
+}
+
+h1{
+    color: rgb(162, 148, 211);
 }
 
 a{
-    padding: 20px 30px;
+    padding: 25px 40px;
     margin: 10px;
     text-decoration: none;
     color:azure;
-    background-color:steelblue;
+    background-color:rgb(120, 154, 185);
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+    margin: 20px;
+
 }
