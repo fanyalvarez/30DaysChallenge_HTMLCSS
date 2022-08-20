@@ -9,11 +9,11 @@ and I will start doing this challenge 🤓
 <br> DAY -  PROYECT
 <br>01✅ - Glowing Neon Buttons
 <br>02✅ - Neumorphism Login Form
-<br>03 - Responsive Task Management Dashboard
-<br>04 - Side Navigation Bar
-<br>05 - Social Media Icons with Tooltip on Hover
-<br>06 - Toggle Neumorphism Switch
-<br>07 - FAQ Accordion Section
+<br>03✅ - Responsive Task Management Dashboard
+<br>04✅ - Side Navigation Bar
+<br>05✅ - Social Media Icons with Tooltip on Hover
+<br>06✅ - Toggle Neumorphism Switch
+<br>07✅ - FAQ Accordion Section
 <br>08 - Game Card Hover Effects
 <br>09 - Dropmorphism
 <br>10 - Responsive Image Gallery
