@@ -14,7 +14,7 @@ and I will start doing this challenge 🤓
 <br>05✅ - Social Media Icons with Tooltip on Hover
 <br>06✅ - Toggle Neumorphism Switch
 <br>07✅ - FAQ Accordion Section
-<br>08 - Game Card Hover Effects
+<br>08✅ - Game Card Hover Effects
 <br>09 - Dropmorphism
 <br>10 - Responsive Image Gallery
 <br>11 - Custom Radio Buttons
