@@ -20,7 +20,7 @@ and I will start doing this challenge 🤓
 <br>11✅ - Custom Radio Buttons
 <br>12✅ - Responsive Pricing Card tables
 <br>13✅ - Toggle ON OFF Switch Button
-<br>14 - Samsung Watch Clone
+<br>14✅ - Samsung Watch Clone
 <br>15 - Neumorphic Login Form Design
 <br>16 - Neumorphism Animation
 <br>17 - Card Reveal Hover Effect
