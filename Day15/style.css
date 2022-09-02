@@ -21,7 +21,7 @@ button {
 }
 
 .title1{
-    margin: 10px 0 25px 0;
+    margin: 25px;
 }
 .title-form{
     color: #babecc;
@@ -29,9 +29,9 @@ button {
 }
 
 form {
-    padding: 16px 20px;
+    padding: 40px;
     width: 330px;
-    margin: 0 auto;
+    margin: 18%;
     box-shadow: inset 1px 1px 5px #babecc;
 }
 
