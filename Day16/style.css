@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:wght@300;900&display=swap');
+
+body {
+    background: #bebea9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.title1 {
+    height: 200px;
+    margin: 50px 0;
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: 600px;
+    overflow: hidden;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: justify;
+    color: black;
+    padding: 40px;
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+.flap {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(66, 126, 111);
+}
+
+.flap::before {
+    position: absolute;
+    background-image: url(img.jpg);
+    content: '';
+    height: 100%;
+    width: 50%;
+    background-position: 1300px;
+    /* background-repeat: no-repeat; */
+    transition: 1s;
+}
+
+
+.flap::after {
+    position: absolute;
+    background-image: url(img.jpg);
+    content: '';
+    height: 100%;
+    width: 50%;
+    right: 0;
+    background-position: 900px;
+    /* background-repeat: no-repeat; */
+    transition: 1s;
+}
+
+.container:hover .flap::after {
+    transform: translateX(300px);
+}
+
+.container:hover .flap::before {
+    transform: translateX(-300px);
+}
