@@ -13,17 +13,17 @@ body {
 
 .title1 {
     height: 50%;
-    margin: 5% 10% 10%;
+    margin: 50px auto 100px;
 }
 
 .container {
-    margin: 10%;
+    margin: 100px;
     box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 10vh;
+    height: 30vh;
 }
 
 .box {
