@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(116, 187, 163);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div {
+    position: absolute;
+    top: 8%;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+ul li {
+    background-color: rgb(177, 121, 52);
+    box-sizing: border-box;
+    width: 15em;
+    height: 3em;
+    font-size: 20px;
+    border-radius: 0.5em;
+    margin: 0.9em;
+    box-shadow: 0 0 1em rgb(39, 39, 39);
+    color: white;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    line-height: 3em;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+ul li:nth-child(odd) {
+    background: linear-gradient(to right, rgb(207, 153, 86), rgb(177, 121, 52));
+    text-align: left;
+    padding-left: 10%;
+    transform: perspective(500px) rotateY(45deg);
+}
+
+ul li:nth-child(even) {
+    background: linear-gradient(to left, rgb(207, 153, 86), rgb(177, 121, 52));
+    text-align: right;
+    padding-right: 10%;
+    transform: perspective(500px) rotateY(-45deg);
+}
+
+ul li:nth-child(odd):hover {
+    transform: perspective(200px) rotateY(45deg);
+    padding-left: 5%;
+}
+
+ul li:nth-child(even):hover {
+    transform: perspective(200px) rotateY(-45deg);
+    padding-right: 5%;
+}
