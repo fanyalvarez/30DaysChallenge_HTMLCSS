@@ -28,7 +28,7 @@ and I will start doing this challenge 🤓
 <br>19✅ - Awesome Animated Search Bar
 <br>20✅ - Animated Search Bar
 <br>21✅ - 3D Button Hover Animation
-<br>22 - Amazing Profile Cards Design
+<br>22✅ - Amazing Profile Cards Design
 <br>23 - Button with Animated Border
 <br>24 - Amazing Profile Cards Design
 <br>25 - Image Hover Effects
