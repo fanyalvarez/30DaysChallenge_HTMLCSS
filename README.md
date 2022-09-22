@@ -32,8 +32,8 @@ and I will start doing this challenge 🤓
 <br>23✅ - Button with Animated Border
 <br>24✅ - Amazing Profile Cards Design
 <br>25✅ - Image Hover Effects
-<br>26 - CSS Button Hover Effect
-<br>27 - CSS Image Hover Effect
+<br>26✅  - CSS Button Hover Effect
+<br>27✅  - CSS Image Hover Effect
 <br>28 - Awesome CSS Button Hover Effect
 <br>29 - Awesome CSS Card Hover Effects
 <br>30 - Responsive CSS Cards
