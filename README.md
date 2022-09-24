@@ -35,5 +35,5 @@ and I will start doing this challenge 🤓
 <br>26✅ - CSS Button Hover Effect
 <br>27✅ - CSS Image Hover Effect
 <br>28✅ - Button with Animated Border
-<br>29 - Awesome CSS Card Hover Effects
+<br>29✅ - Card Hover Effects-show
 <br>30 - Responsive CSS Cards
