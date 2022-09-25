@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=BenchNine:700);
 
 body {
-    background-color: #212121;
+    background-color: #2e2b2b;
     /* height: 100vh; */
     display: flex;
     flex-direction: column;
@@ -9,21 +9,32 @@ body {
     justify-content: space-evenly;
 }
 
-div {
+h1 {
+    font-size: 50px;
     margin-top: 30px;
-    height: 45vh;
-    color: rgb(158, 173, 158);
+    height: 40vh;
+    color:#fff
 }
 
+#html{
+    background-color: #cf4444;
+}
+
+#css{
+    background-color: #58a7c7;
+}
+
+#js{
+    background-color: #c2c03d;
+}
 .btn {
-    background-color: darkgreen;
     border: none;
     color: #fff;
     cursor: pointer;
     display: inline-block;
     font-family: 'BenchNine', Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    font-size: 22px;
+    /* font-size: 1em; */
+    font-size: 40px;
     line-height: 1em;
     margin: 15px 40px;
     outline: none;
@@ -47,14 +58,14 @@ div {
 }
 
 .btn::before {
-    border-color: darkgreen;
+    border-color:floralwhite;
     border-top-width: 2px;
     left: 0px;
     top: -5px;
 }
 
 .btn::after {
-    border-color: darkgreen;
+    border-color:floralwhite;
     border-bottom-width: 2px;
     right: 0px;
     bottom: -5px;
@@ -62,7 +73,7 @@ div {
 
 .btn:hover,
 .btn.hover {
-    background-color: darkgreen;
+    background-color:floralwhite;
 }
 
 .btn:hover::after,

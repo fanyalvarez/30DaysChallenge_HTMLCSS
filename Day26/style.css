@@ -9,7 +9,8 @@ body {
     /* justify-content:space-around; */
 }
 
-div {
+h1 {
+    font-size: 50px;
     margin-top: 8vh;
     margin-bottom: 25vh;
     color: #fff;
@@ -25,7 +26,7 @@ div {
     text-transform: uppercase;
     line-height: 2.7em;
     letter-spacing: 1.5px;
-    font-size: 1em;
+    font-size: 1.5em;
     outline: none;
     position: relative;
     /* font-size: 16px; */

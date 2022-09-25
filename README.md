@@ -8,8 +8,8 @@ and I will start doing this challenge 🤓
 #  Here is What I have done in these 30 Days : 
 <br> DAY -  PROYECT
 <br>01✅ - Glowing Neon Buttons
-<br>02✅ - Neumorphism Login Form
-<br>03✅ - Responsive Task Management Dashboard
+<br>02✅ - Neumorphism Login & Sign Up Form Design
+<br>03✅ - Responsive Task Management Dashboard UI
 <br>04✅ - Side Navigation Bar
 <br>05✅ - Social Media Icons with Tooltip on Hover
 <br>06✅ - Toggle Neumorphism Switch
@@ -24,16 +24,16 @@ and I will start doing this challenge 🤓
 <br>15✅ - Neumorphic Login Form Design
 <br>16✅ - Neumorphism Animation
 <br>17✅ - Card Reveal Hover Effect
-<br>18✅ - Animated Login and Sign Up Form
-<br>19✅ - Awesome Animated Search Bar
+<br>18✅ - Slide Sign In / Sign Up Form 
+<br>19✅ - Search Box with animation
 <br>20✅ - Animated Search Bar
 <br>21✅ - 3D Button Hover Animation
-<br>22✅ - Amazing Profile Cards Design
+<br>22✅ - Profile Cards Design
 <br>23✅ - Button with Animated Border
 <br>24✅ - Amazing Profile Cards Design
 <br>25✅ - Image Hover Effects
-<br>26✅ - CSS Button Hover Effect
-<br>27✅ - CSS Image Hover Effect
+<br>26✅ - Bordered line Buttons
+<br>27✅ - Show Button on Image Hover
 <br>28✅ - Button with Animated Border
 <br>29✅ - Card Hover Effects-show
-<br>30 - Responsive CSS Cards
+<br>30✅ - Responsive profile cards

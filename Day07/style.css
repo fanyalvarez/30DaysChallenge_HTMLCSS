@@ -16,6 +16,12 @@ body {
   color: #4d5974;
   display: flex;
   min-height: 100vh;
+  flex-direction: column;
+}
+
+h1{
+  margin-top: 3%;
+  text-align: center;
 }
 
 .container {
