@@ -1,38 +1,173 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;700&family=Raleway:ital,wght@1,500&family=Readex+Pro&family=Silkscreen&display=swap');
 
-body{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+body {
+
     justify-content: center;
-    align-items:center;
-    /* height: 100vh; */
+    align-items: center;
     background-color: rgb(48, 44, 44);
     font-family: 'Silkscreen', cursive;
     font-size: larger;
 }
 
-h1{
+h1 {
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
     color: rgb(162, 148, 211);
 }
 
-a{  
-    width: 7%;
-    height: 100px;
-    padding: 25px 40px;
-    margin: 10px;
-    text-align: center;
-    text-decoration: none;
-    color:azure;
-    background-color:rgb(120, 154, 185);
-}
-
-div{
+section {
+    display: flex;
+    flex-direction: row;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items:center;
-    width: 95%;
-    /* height: 13%; */
-    margin: 20px;
+}
+.container {
+    text-align: center;
+    margin: 50px 50px;
+}
+
+.content {
+    height: 150px;
+    width: 200px;   
+    border-radius: 20px;
+    box-shadow: 0 0 7px 0 #d0d0d0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    margin: 10px 0;
+    color: rgb(162, 148, 211);
+}
+
+a {
+    padding: 5px 15px;
+    margin: auto;
+    border: 1px solid azure;
+    text-decoration: none;
+    color: #000;
+    font-size: 17px;
+    background-color: rgb(162, 148, 211);
+    border-radius: 7px;
+}
+
+#bg01 {
+    background-image: url(/Day01/day01.png);
+}
+
+#bg02 {
+    background-image: url(/Day02/day02.png);
+}
+
+#bg03 {
+    background-image: url(/Day03/day03.png);
+}
+
+#bg04 {
+    background-image: url(/Day04/day04.png);
+}
+
+#bg05 {
+    background-image: url(/Day05/day05.png);
+}
+
+#bg06 {
+    background-image: url(/Day06/day06.png);
+}
+
+#bg07 {
+    background-image: url(/Day07/day07.png);
+}
+
+#bg08 {
+    background-image: url(/Day08/day08.png);
+}
+
+#bg09 {
+    background-image: url(/Day09/day09.png);
+}
+
+#bg10 {
+    background-image: url(/Day10/day10.png);
+}
+
+#bg11 {
+    background-image: url(/Day11/day11.png);
+}
+
+#bg12 {
+    background-image: url(/Day12/day12.png);
+}
+
+#bg13 {
+    background-image: url(/Day13/day13.png);
+}
+
+#bg14 {
+    background-image: url(/Day14/day14.png);
+}
+
+#bg15 {
+    background-image: url(/Day15/day15.png);
+}
+
+#bg16 {
+    background-image: url(/Day16/day16.png);
+}
+
+#bg17 {
+    background-image: url(/Day17/day17.png);
+}
+
+#bg18 {
+    background-image: url(/Day18/day18.png);
+}
+
+#bg19 {
+    background-image: url(/Day19/day19.png);
+}
+
+#bg20 {
+    background-image: url(/Day20/day20.png);
+}
+
+#bg21 {
+    background-image: url(/Day21/day21.png);
+}
+
+#bg22 {
+    background-image: url(/Day22/day22.png);
+}
+
+#bg23 {
+    background-image: url(/Day23/day23.png);
+}
+
+#bg24 {
+    background-image: url(/Day24/day24.png);
+}
+
+#bg25 {
+    background-image: url(/Day25/day25.png);
+}
+
+#bg26 {
+    background-image: url(/Day26/day26.png);
+}
+
+#bg27 {
+    background-image: url(/Day27/day27.png);
+}
+
+#bg28 {
+    background-image: url(/Day28/day28.png);
+}
+
+#bg29 {
+    background-image: url(/Day29/day29.png);
+}
+
+#bg30 {
+    background-image: url(/Day30/day30.png);
 }

@@ -3,7 +3,7 @@
 
 body,
 html {
-    background: #ebecf0;
+    background: #a6b2e4;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,6 +30,8 @@ button {
 }
 
 form {
+    border-radius: 10px;
+    background: #ebecf0;
     padding: 40px;
     width: 330px;
     margin-top: 18%;

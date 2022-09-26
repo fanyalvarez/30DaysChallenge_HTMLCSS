@@ -8,7 +8,7 @@ body{
     font-family: 'inter', sans-serif;
     color: #000021;
     font-size: calc(1em + 1.1vw);
-    background-color: #e6e6ef;
+    background-color: #8ac8dd;
 }
 
 .title1 {
@@ -23,7 +23,7 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    width: 100%;
+    width: 95%;
     display: flex;
     justify-content: center;
     align-items: center;
